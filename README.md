@@ -2,7 +2,7 @@
 
 ### I'm studying Technologyst Degree in Computer Science at UTEC, university from Uruguay. 
 
-### In UTEC, I've improved my skills about functional programming and Data Structures with C/C++, Concurrent Programming and parallelization using semaphores with C++ and Python, databases design and management with MySQL from console, BASH scripting, Logic Gates basics, among others.
+### In UTEC, I've improved my skills about Functional Programming and Data Structures with C/C++, Concurrent Programming and Parallelization using semaphores with C++ and Python, Databases design and management with MySQL from console, BASH scripting, Logic Gates basics, among others.
 
 ### On the other hand, I'm actually learning python and their libraries PyGame and Tkinter as also OOP in a self-taught way.
 
