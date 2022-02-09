@@ -1,26 +1,40 @@
-### Hello everybody, my name is Alexis Velázquez. 
+<body>
+<div align = "center">
+  <h1> Hello everybody, my name is Alexis Velázquez </h1> 
 
-### I'm studying Technologyst Degree in Computer Science at UTEC, university from Uruguay. 
+  <h3> I'm Junior Developer and I'm actually studying: </h3>
 
-### In UTEC, I've improved my skills about Functional Programming and Data Structures with C/C++, Concurrent Programming and Parallelization using semaphores and threads with C++ and Python, Databases design and management with MySQL from console, BASH scripting, Logic Gates basics, among others.
+  **<a href="https://utec.edu.uy/en/education/undergraduate-study/technologist-degree-in-computer-science/"> 
+     Technologyst Degree in Computer Science at UTEC, university from Uruguay. </a>**
 
-### On the other hand, I'm actually learning python and their libraries PyGame and Tkinter as also OOP in a self-taught way.
+  <br>
+  
+  **In this career, I've improved my skills about:**   
+  <li> Functional Programming and Data Structures with C/C++ </li>
+  <li> Concurrent Programming and Parallelization using semaphores and threads with C++ and Python </li>
+  <li> Databases design and management with MySQL from console </li>
+  <li> BASH scripting and Linux </li>
+  <li> Logic Gates basics, among others </li>
+</div>
 
-### I will add new repositories as I develop new projects applying what I have learned.
+<br>
 
-### You are all welcome!
+____
 
-<!--
-**AVelazquez97/AVelazquez97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = "center">
+  
+ ### On the other hand, I'm actually learning to develop GUI's with Tkinter/Python as also OOP in a self-taught way.
+  
+ ### I will add new repositories as I develop new projects applying what I have learned.
+  
+ <h3> You are all welcome! </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alexis Velazquez's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVelazquez97&hide=contribs,prs&theme=merko&show_icons=true)
+ 
+<br> 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVelazquez97&layout=compact&theme=merko)](https://github.com/AVelazquez97/github-readme-stats)
+  
+</div>
+</body>
