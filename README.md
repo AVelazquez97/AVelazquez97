@@ -23,7 +23,7 @@ ____
 
 <div align = "center">
   
- ### On the other hand, I'm actually learning to develop GUI's with Tkinter/Python as also OOP in a self-taught way.
+ ### On the other hand, I'm actually learning to develop on the server side at a backend course imparted by CoderHouse.
   
  ### I will add new repositories as I develop new projects applying what I have learned.
   
