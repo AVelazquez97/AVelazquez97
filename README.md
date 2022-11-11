@@ -30,11 +30,12 @@ ____
  <h3> You are all welcome! </h3>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=AVelazquez97&show_icons=true&theme=merko)
+[![Alexis Velázquez's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AVelazquez97&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  
 <br> 
- 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AVelazquez97&layout=compact&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVelazquez97&theme=merko&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr/>
 
 ![](https://komarev.com/ghpvc/?username=AVelazquez97&label=Profile+views&color=blue&style=for-the-badge)
