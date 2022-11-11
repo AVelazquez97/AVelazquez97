@@ -34,7 +34,7 @@ ____
  
 <br> 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVelazquez97&layout=compact&theme=merko)](https://github.com/AVelazquez97/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVelazquez97&layout=compact&theme=merko)
 <hr/>
 
 ![](https://komarev.com/ghpvc/?username=AVelazquez97&label=Profile+views&color=blue&style=for-the-badge)
