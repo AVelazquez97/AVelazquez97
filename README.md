@@ -2,7 +2,7 @@
 <div align = "center">
   <h1> Hello everybody, my name is Alexis Velázquez </h1> 
 
-  <h3> I'm Junior Developer and I'm actually studying: </h3>
+  <h3> I'm Junior Backend Developer and I'm actually studying: </h3>
 
   **<a href="https://utec.edu.uy/en/education/undergraduate-study/technologist-degree-in-computer-science/"> 
      Technologyst Degree in Computer Science at UTEC, university from Uruguay. </a>**
@@ -30,7 +30,7 @@ ____
  <h3> You are all welcome! </h3>
 
 
-![Alexis Velazquez's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVelazquez97&hide=contribs,prs&theme=merko&show_icons=true)
+![Alexis Velazquez's GitHub stats](https://github-readme-stats.vercel.app/api/?username=AVelazquez97&show_icons=true&theme=merko)
  
 <br> 
  
