@@ -25,10 +25,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AVelazquez97&icon=2&color=8)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=AVelazquez97&label=Profile+views&color=blue&style=for-the-badge)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@AlexisVel) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@AlexisVel) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
