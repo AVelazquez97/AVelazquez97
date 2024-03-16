@@ -1,7 +1,7 @@
 # Hi there, I'm Alexis! 
 
 # 💫 About Me:
-👩🏻‍💻I'm currently employed as a Customer Support Specialist at [Netuy](https://www.netuy.net/), a Uruguayan company that offers hosting, cloud services, and various other web-based solutions.
+👩🏻‍💻I'm currently employed as a Senior Customer Support Specialist at [Netuy](https://www.netuy.net/), a Uruguayan company that offers hosting, cloud services, and various other web-based solutions.
 <br>
 <br>
 🔭 I’m currently pursuing a [Technology Degree in Computer Science at UTEC](https://utec.edu.uy/en/education/undergraduate-study/technologist-degree-in-computer-science/), a university in Uruguay.
