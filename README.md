@@ -21,9 +21,9 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AVelazquez97&theme=merko&hide_border=false)<br/>
-<!--![](https://github-readme-stats.vercel.app/api?username=AVelazquez97&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AVelazquez97&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AVelazquez97&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
--->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AVelazquez97&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
