@@ -7,7 +7,7 @@
 🎓 I'm currently pursuing a Technology Degree in Computer Science at UTEC, a university in Uruguay, with a focus on software development and infrastructure. I've completed 60% of the program and continue to expand my knowledge in these areas.
 <br><br>
 🚀 Throughout my academic journey, my studies have been heavily focused on logic programming with C/C++, task automation with Python, as well as the development of distributed applications with Java. Additionally, outside of my university coursework, I have pursued projects with NodeJS through external courses, specifically focusing on building Restful APIs.
-Also, I've used Python to automate some simple tasks in my work as well as personal ones.
+Also, I've used Python and Bash to automate some simple tasks in my work as well as personal ones.
 <br><br>
 💡 NodeJS and Python are my preferred technologies, and I'm passionate about exploring opportunities to further develop my skills and contribute to projects in these areas.
 <br><br>
